@@ -177,4 +177,4 @@ A concern has been raised that mobile devices (the first target for the BIOPPM) 
 
 The BIOSD has a section with a proposed outline of what needs to be provided to the evaluator for review, and is looking for comments on this section to better target it to both what a validator would expect to see as complete and also what a vendor would consider appropriate given the nature of the quality measures.
 
-It is important to note that this information is needed for testing that the samples provided to the biometric system have the information needed to build a template and then to verify a new sample to the template. So the focus is on how to create poor samples and how to ensure they are discarded from use.
+It is important to note that this information is needed for testing that the samples provided to the biometric system have sufficient information needed to build templates which will result in the desired performance, i.e. acceptable error rates. So the focus is on how to create poor samples and how to ensure they are discarded from use.
