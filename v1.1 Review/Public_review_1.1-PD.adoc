@@ -53,7 +53,7 @@ The following are the documents included in this v1.1 Proposed Draft Period:
 
 |Eye Toolbox Overview
 ^.^|1.1
-^.^|https://github.com/biometricITC/Eye-Toolbox/blob/Working/Eye_Toolbox_Overview.adoc[Eye Toolbox Overview]
+^.^|https://github.com/biometricITC/Eye-Toolbox/blob/Working/EYE_Toolbox_Overview.adoc[Eye Toolbox Overview]
 
 |Face Toolbox Overview
 ^.^|1.1
